@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App_CM_1</string>
+    <!-- No Hard Code -->
+    <string name="saludo">Hello Everyone!</string>                     <!-- Good Practice -->
+    <string name="btn_saludar">Saludar</string>
+</resources>
